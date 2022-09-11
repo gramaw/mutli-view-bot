@@ -1,4 +1,4 @@
-import requests; import threading; from pystyle import Colorate, Colors, Write, Add, Center; import os; import time 
+import requests; import threading; import Colorate, Colors, Write, Add, Center; import os; import time 
 
 
 banner = (f"""
